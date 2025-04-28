@@ -1,0 +1,27 @@
+Components Needed
+Basic Components:
+
+Arduino Uno
+Motor Driver Module (L298N)
+DC Motors
+Chassis
+Wheels
+Battery Pack
+Bluetooth Module (HC-05 or HC-06)
+Ultrasonic Sensor (HC-SR04)
+For Line Following:
+
+IR Sensors (2-4, like the TCRT5000)
+Resistors (for the IR sensors, typically 220Ω)
+For Speed Control:
+
+PWM-capable Motor Driver (the L298N works for this)
+For Sound/Alarm System:
+
+Buzzer or Small Speaker (like a piezo buzzer)
+For Multiple Modes:
+
+No additional parts needed; you’ll just need to modify your code.
+For Wi-Fi Control:
+
+ESP8266 or ESP32 module
